@@ -1,0 +1,5 @@
+.main-header{ background: #ccc;padding: 20px; }
+.main-header ul{margin: 0 auto;text-align: center;}
+.main-header ul li{list-style-type: none;font-size: 20px; display: inline-block;padding: 0 20px;}
+.counter-div{ margin: 0 auto; text-align: center; }
+.counter-div button{ padding: 10px 40px;background: transparent;border-radius: 10px;border: 1px solid #000; }
