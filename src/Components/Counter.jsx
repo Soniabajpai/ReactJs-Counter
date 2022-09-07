@@ -13,7 +13,7 @@ updatedstate(currentstate+1);
 	return(
 <>
 <div className="counter-div">
-<h3>Counter</h3>
+<h2 className="title">Counter</h2>
 <button onClick={handleClick}>{currentstate}</button>
 </div>
 </>
